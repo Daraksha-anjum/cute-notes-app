@@ -32,6 +32,9 @@ While the app is simple, it helped me understand concepts like UI design, state 
 I am eager to learn more and improve by building more complex features in the future.
 
 ---
+## 📱 App Preview
+
+![Cute Notes App Preview](app-preview.png)
 
 ## 🙌 Author
 
